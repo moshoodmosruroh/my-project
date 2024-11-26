@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\myfirstclass\firstclass\bin\Debug\net7.0\firstclass.exe
+C:\Users\HP\Desktop\myfirstclass\firstclass\bin\Debug\net7.0\firstclass.deps.json
+C:\Users\HP\Desktop\myfirstclass\firstclass\bin\Debug\net7.0\firstclass.runtimeconfig.json
+C:\Users\HP\Desktop\myfirstclass\firstclass\bin\Debug\net7.0\firstclass.dll
+C:\Users\HP\Desktop\myfirstclass\firstclass\bin\Debug\net7.0\firstclass.pdb
+C:\Users\HP\Desktop\myfirstclass\firstclass\obj\Debug\net7.0\firstclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\myfirstclass\firstclass\obj\Debug\net7.0\firstclass.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\myfirstclass\firstclass\obj\Debug\net7.0\firstclass.AssemblyInfo.cs
+C:\Users\HP\Desktop\myfirstclass\firstclass\obj\Debug\net7.0\firstclass.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\myfirstclass\firstclass\obj\Debug\net7.0\firstclass.dll
+C:\Users\HP\Desktop\myfirstclass\firstclass\obj\Debug\net7.0\refint\firstclass.dll
+C:\Users\HP\Desktop\myfirstclass\firstclass\obj\Debug\net7.0\firstclass.pdb
+C:\Users\HP\Desktop\myfirstclass\firstclass\obj\Debug\net7.0\firstclass.genruntimeconfig.cache
+C:\Users\HP\Desktop\myfirstclass\firstclass\obj\Debug\net7.0\ref\firstclass.dll
